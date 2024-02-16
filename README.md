@@ -1,3 +1,3 @@
 # Demo currency changer
 
-basic useges of useState, useEffect and Typescript.
+practice usage of useState, useEffect and Typescript.
