@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #444;
+  font-size: 1.2rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  width: 20rem;
+  margin: 4rem auto;
+  background-color: #333;
+  padding: 2rem 3rem;
+}
+
+.group {
+  width: 15rem;
+  display: flex;
+  justify-content: space-between;
+}
+.group label {
+  color: #fff;
+}
+
+.group input,
+.group select {
+  width: 10rem;
+}
+
+.result {
+  min-height: 2rem;
+  background-color: #444;
+  width: 100%;
+  text-align: center;
+  padding: 14px 0;
+  color: #fff;
+}
